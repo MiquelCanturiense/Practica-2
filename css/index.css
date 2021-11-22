@@ -1,0 +1,30 @@
+#noticias{
+    position: absolute;
+    top: 12%;
+    left: 12%;
+    padding: 10px 10px 280px 10px;
+    margin-right:1200px;
+}
+
+h2{
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+h3{
+    font-style: italic;
+    font-size: 22px;
+}
+
+#noticias p {
+    font-size: 18px;
+}
+
+#noticias a {
+    border: black solid 1px;
+    padding: 10px 15px 10px 15px;
+    position: relative;
+    top: 30px;
+    left: 140px;
+    background-color: lightgrey;
+}

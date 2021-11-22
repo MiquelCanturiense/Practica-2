@@ -1,0 +1,44 @@
+body{
+    background-color: purple;
+}
+
+h3{
+    font-size: 22px;
+    color: black;
+    font-weight: normal;
+    position: relative;
+    top: -20px;
+}
+
+#img1{
+    position: absolute;
+    top: 14%;
+    left: 10%;
+}
+
+#img2{
+    position: absolute;
+    top: 14%;
+    left: 40%;
+}
+
+#img3{
+    position: absolute;
+    top: 40%;
+    left: 10%;
+}
+
+#img4{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+footer{
+    position: absolute;
+    top: 62%;
+}
+
+section p{
+    color: white;
+}
+
